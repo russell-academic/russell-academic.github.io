@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter | Hugo Academic CV Theme</title>
+    <link>https://russell-academic.github.io/publication_types/chapter/</link>
+      <atom:link href="https://russell-academic.github.io/publication_types/chapter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chapter</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://russell-academic.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Chapter</title>
+      <link>https://russell-academic.github.io/publication_types/chapter/</link>
+    </image>
+    
+    <item>
+      <title>Reliable Implementation of Real Number Algorithms: Theory and Practice</title>
+      <link>https://russell-academic.github.io/publication/miller-2008-cr/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/miller-2008-cr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

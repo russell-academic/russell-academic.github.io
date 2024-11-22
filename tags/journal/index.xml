@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal | Hugo Academic CV Theme</title>
+    <link>https://russell-academic.github.io/tags/journal/</link>
+      <atom:link href="https://russell-academic.github.io/tags/journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://russell-academic.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Journal</title>
+      <link>https://russell-academic.github.io/tags/journal/</link>
+    </image>
+    
+    <item>
+      <title>Theory of Computing</title>
+      <link>https://russell-academic.github.io/project/toc/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/project/toc/</guid>
+      <description>&lt;p&gt;I am an editor for Theory of Computing.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

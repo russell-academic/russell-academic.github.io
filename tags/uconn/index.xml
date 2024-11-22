@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UConn | Hugo Academic CV Theme</title>
+    <link>https://russell-academic.github.io/tags/uconn/</link>
+      <atom:link href="https://russell-academic.github.io/tags/uconn/index.xml" rel="self" type="application/rss+xml" />
+    <description>UConn</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://russell-academic.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>UConn</title>
+      <link>https://russell-academic.github.io/tags/uconn/</link>
+    </image>
+    
+    <item>
+      <title>UConn letterhead</title>
+      <link>https://russell-academic.github.io/project/letterhead/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/project/letterhead/</guid>
+      <description>&lt;p&gt;An unofficial LaTeX style that implements a likeness of the UConn letterhead.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

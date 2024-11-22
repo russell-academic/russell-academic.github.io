@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cryptography | Hugo Academic CV Theme</title>
+    <link>https://russell-academic.github.io/tags/cryptography/</link>
+      <atom:link href="https://russell-academic.github.io/tags/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cryptography</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://russell-academic.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Cryptography</title>
+      <link>https://russell-academic.github.io/tags/cryptography/</link>
+    </image>
+    
+    <item>
+      <title>Advanced Cryptography</title>
+      <link>https://russell-academic.github.io/teaching/advanced-cryptography/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/teaching/advanced-cryptography/</guid>
+      <description>&lt;p&gt;From time to time I teach CSE5854, the second-semester graduate cryptography course. The topics vary from year to year.&lt;/p&gt;
+&lt;p&gt;I use the &lt;a href=&#34;https://courses.cse.uconn.edu/moodle/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;School&amp;rsquo;s moodle server&lt;/a&gt; to administer the course.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Modern Cryptography</title>
+      <link>https://russell-academic.github.io/teaching/intro-cryptography/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/teaching/intro-cryptography/</guid>
+      <description>&lt;p&gt;I typically teach CSE4702, which is cross-listed with CSE5852, in the Fall semester. The course focuses on the formal, mathematical development of cryptography based on complexity-theoretic hardness assumptions. More generally, the course studies how basic cryptographic primitives can be combined to yield more sophisticated tools. The topics vary a bit from year to year, but always cover:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Elements of information-theoretic cryptography; one-time pads.&lt;/li&gt;
+&lt;li&gt;Pseudorandom generators and their relationship to complexity-theoretic assumptions. Pseudorandom functions.&lt;/li&gt;
+&lt;li&gt;Elements of symmetric cryptography: encryption, formal security definitions, message authentication codes.&lt;/li&gt;
+&lt;li&gt;Elements of public-key cryptography: encryption, digital signatures.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The course is taught from the excellent textbook by &lt;a href=&#34;http://www.cs.umd.edu/~jkatz/imc.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Katz and Lindell&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I use the &lt;a href=&#34;https://courses.cse.uconn.edu/moodle/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;School&amp;rsquo;s moodle server&lt;/a&gt; to administer the course.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

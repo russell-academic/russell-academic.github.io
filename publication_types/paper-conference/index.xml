@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper-Conference | Hugo Academic CV Theme</title>
+    <link>https://russell-academic.github.io/publication_types/paper-conference/</link>
+      <atom:link href="https://russell-academic.github.io/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper-Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://russell-academic.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Paper-Conference</title>
+      <link>https://russell-academic.github.io/publication_types/paper-conference/</link>
+    </image>
+    
+    <item>
+      <title>The Decisive Power of Indecision: Low-Variance Risk-Limiting Audits and Election Contestation via Marginal Mark Recording</title>
+      <link>https://russell-academic.github.io/publication/fuller-2024-aa/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/fuller-2024-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Risk-Limiting Comparison Audits</title>
+      <link>https://russell-academic.github.io/publication/harrison-2023-aa/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/harrison-2023-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptively Secure Random Beacons for Ungrindable Blockchains</title>
+      <link>https://russell-academic.github.io/publication/kiayias-2023-aa/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/kiayias-2023-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fait Accompli Committee Selection: Improving the Size-Security Tradeoff of Stake-Based Committees</title>
+      <link>https://russell-academic.github.io/publication/gazi-2023-ab/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/gazi-2023-ab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Settlement Bounds for Longest-Chain Consensus</title>
+      <link>https://russell-academic.github.io/publication/gazi-2023-aa/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/gazi-2023-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Settlement Bounds for Proof-of-Work Blockchains</title>
+      <link>https://russell-academic.github.io/publication/gazi-2022-aa/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/gazi-2022-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Generals&#39; Scuttlebutt: Byzantine-Resilient Gossip Protocols</title>
+      <link>https://russell-academic.github.io/publication/coretti-2022-aa/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/coretti-2022-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Composable Security Treatment of ECVRF and Batch Verifications</title>
+      <link>https://russell-academic.github.io/publication/badertscher-2022-aa/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/badertscher-2022-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ofelimos: Combinatorial Optimization via Proof-of-Useful-Work - A Provably Secure Blockchain Protocol</title>
+      <link>https://russell-academic.github.io/publication/fitzi-2022-vq/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/fitzi-2022-vq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Ad Hoc Clock Synchronization</title>
+      <link>https://russell-academic.github.io/publication/badertscher-2021-vj/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/badertscher-2021-vj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code Offset in the Exponent</title>
+      <link>https://russell-academic.github.io/publication/demarest-2021-uc/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/demarest-2021-uc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Isomorphic State Channels</title>
+      <link>https://russell-academic.github.io/publication/chakravarty-2021-ty/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/chakravarty-2021-ty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistency of Proof-of-Stake Blockchains with Concurrent Honest Slot Leaders</title>
+      <link>https://russell-academic.github.io/publication/kiayias-2020-tt/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/kiayias-2020-tt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Simulation of Random States and Random Unitaries</title>
+      <link>https://russell-academic.github.io/publication/alagic-2020-ab/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/alagic-2020-ab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ledger Combiners for Fast Settlement</title>
+      <link>https://russell-academic.github.io/publication/fitzi-2020-aa/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/fitzi-2020-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum-Access-Secure Message Authentication via Blind-Unforgeability</title>
+      <link>https://russell-academic.github.io/publication/alagic-2020-aa/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/alagic-2020-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Combinatorics of the Longest-Chain Rule: Linear Consistency for Proof-of-Stake Blockchains</title>
+      <link>https://russell-academic.github.io/publication/blum-2020-aa/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/blum-2020-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tight Consistency Bounds for Bitcoin</title>
+      <link>https://russell-academic.github.io/publication/gazi-2020-aa/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/gazi-2020-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Let a Non-barking Watchdog Bite: Cliptographic Signatures with an Offline Watchdog</title>
+      <link>https://russell-academic.github.io/publication/chow-2019-aa/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/chow-2019-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stake-Bleeding Attacks on Proof-of-Stake Blockchains</title>
+      <link>https://russell-academic.github.io/publication/gazi-2018-aa/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/gazi-2018-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correcting Subverted Random Oracles</title>
+      <link>https://russell-academic.github.io/publication/russell-2018-aa/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/russell-2018-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ouroboros Genesis: Composable Proof-of-Stake Blockchains with Dynamic Availability</title>
+      <link>https://russell-academic.github.io/publication/badertscher-2018-aa/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/badertscher-2018-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ouroboros Praos: An Adaptively-Secure, Semi-synchronous Proof-of-Stake Blockchain</title>
+      <link>https://russell-academic.github.io/publication/david-2018-aa/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/david-2018-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generic Semantic Security against a Kleptographic Adversary</title>
+      <link>https://russell-academic.github.io/publication/russell-2017-aa/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/russell-2017-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Availability for VM Placement and a Stochastic Model for Multiple Knapsack</title>
+      <link>https://russell-academic.github.io/publication/shen-2017-aa/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/shen-2017-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol</title>
+      <link>https://russell-academic.github.io/publication/kiayias-2017-aa/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/kiayias-2017-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum-Secure Symmetric-Key Cryptography Based on Hidden Shifts</title>
+      <link>https://russell-academic.github.io/publication/alagic-2017-jo/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/alagic-2017-jo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-view Bi-clustering to Identify Smartphone Sensing Features Indicative of Depression</title>
+      <link>https://russell-academic.github.io/publication/farhan-2016-ng/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/farhan-2016-ng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavior vs. introspection: Refining prediction of clinical depression via smartphone sensing data</title>
+      <link>https://russell-academic.github.io/publication/farhan-2016-uq/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/farhan-2016-uq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cliptography: Clipping the Power of Kleptographic Attacks</title>
+      <link>https://russell-academic.github.io/publication/russell-2016-aa/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/russell-2016-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Encrypted Keyword Search for Multi-user Data Sharing</title>
+      <link>https://russell-academic.github.io/publication/kiayias-2016-ez/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/kiayias-2016-ez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markovian Hitters and the Complexity of Blind Rendezvous</title>
+      <link>https://russell-academic.github.io/publication/chen-2016-fq/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/chen-2016-fq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asynchronous Adaptive Task Allocation</title>
+      <link>https://russell-academic.github.io/publication/kentros-2015-ec/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/kentros-2015-ec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asynchronous Neighbor Discovery on Duty-cycled Mobile Devices: Integer and Non-Integer Schedules</title>
+      <link>https://russell-academic.github.io/publication/chen-2015-ak/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/chen-2015-ak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asynchronous Neighbor Discovery on Duty-cycled Mobile Devices: Integer and Non-Integer Schedules</title>
+      <link>https://russell-academic.github.io/publication/chen-2015-rp/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/chen-2015-rp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deterministic Blind Rendezvous in Cognitive Radio Networks</title>
+      <link>https://russell-academic.github.io/publication/chen-2014-im/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/chen-2014-im/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dealing with Undependable Workers in Decentralized Network Supercomputing</title>
+      <link>https://russell-academic.github.io/publication/davtyan-2013-hl/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/davtyan-2013-hl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key-Efficient Steganography</title>
+      <link>https://russell-academic.github.io/publication/kiayias-2013-zw/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/kiayias-2013-zw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malicious takeover of voting systems: Arbitrary code execution on optical scan voting terminals</title>
+      <link>https://russell-academic.github.io/publication/jancewicz-2013-ms/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/jancewicz-2013-ms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small-Bias Sets for Nonabelian Groups: Derandomizations of the Alon-Roichman Theorem</title>
+      <link>https://russell-academic.github.io/publication/chen-2013-pj/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/chen-2013-pj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrity of Electronic Voting Systems: Fallacious Use of Cryptography</title>
+      <link>https://russell-academic.github.io/publication/davtyan-2012-ux/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/davtyan-2012-ux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Migration in Heterogeneous Storage Systems</title>
+      <link>https://russell-academic.github.io/publication/kari-2011-to/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/kari-2011-to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>McEliece and Niederreiter Cryptosystems That Resist Quantum Fourier Sampling Attacks</title>
+      <link>https://russell-academic.github.io/publication/dinh-2011-ye/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/dinh-2011-ye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighbor discovery in wireless networks with multipacket reception</title>
+      <link>https://russell-academic.github.io/publication/zeng-2011-aa/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/zeng-2011-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Feasible Implementations of Low-Latency Multi-writer Atomic Registers</title>
+      <link>https://russell-academic.github.io/publication/georgiou-2011-lp/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/georgiou-2011-lp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bounds on the Quantum Satisfiability Threshold</title>
+      <link>https://russell-academic.github.io/publication/bravyi-2010-aa/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/bravyi-2010-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automating Voting Terminal Event Log Analysis</title>
+      <link>https://russell-academic.github.io/publication/antonyan-2009-xr/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/antonyan-2009-xr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking Total Control of Voting Systems: Firmware Manipulations on an Optical Scan Voting Terminal</title>
+      <link>https://russell-academic.github.io/publication/davtyan-2009-di/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/davtyan-2009-di/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pre-Election Testing and Post-Election Audit of Optical Scan Voting Terminal Memory Cards</title>
+      <link>https://russell-academic.github.io/publication/davtyan-2008-qe/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/davtyan-2008-qe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum and Randomized Lower Bounds for Local Search on Vertex-Transitive Graphs</title>
+      <link>https://russell-academic.github.io/publication/dinh-2008-wn/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/dinh-2008-wn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Randomized Work-Competitive Scheduling for Cooperative Computing on k-partite Task Graphs</title>
+      <link>https://russell-academic.github.io/publication/kari-2008-qw/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/kari-2008-qw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Authentication and Ballot Layout Attack Against an Optical Scan Voting Terminal</title>
+      <link>https://russell-academic.github.io/publication/kiayias-2007-mj/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/kiayias-2007-mj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Impossibility of a Quantum Sieve Algorithm for Graph Isomorphism</title>
+      <link>https://russell-academic.github.io/publication/moore-2007-wl/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/moore-2007-wl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Value of Good Advice: The Complexity of A* Search with Accurate Heuristics</title>
+      <link>https://russell-academic.github.io/publication/dinh-2007-yk/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/dinh-2007-yk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Algorithms for Simon&#39;s Problem Over General Groups</title>
+      <link>https://russell-academic.github.io/publication/alagic-2007-fq/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/alagic-2007-fq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soft Edge Coloring</title>
+      <link>https://russell-academic.github.io/publication/kari-2007-fj/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/kari-2007-fj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limitations of Quantum Coset States for Graph Isomorphism</title>
+      <link>https://russell-academic.github.io/publication/hallgren-2006-ph/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/hallgren-2006-ph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Topology for Reconstruction of Surfaces with Boundary: Integrating Experiments and Theory</title>
+      <link>https://russell-academic.github.io/publication/abe-2005-dq/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/abe-2005-dq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Steganography with Provable Security Guarantees</title>
+      <link>https://russell-academic.github.io/publication/kiayias-2005-sy/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/kiayias-2005-sy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Symmetric Group Defies Strong Fourier Sampling</title>
+      <link>https://russell-academic.github.io/publication/moore-2005-ml/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/moore-2005-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generic Quantum Fourier Transforms</title>
+      <link>https://russell-academic.github.io/publication/moore-2004-gd/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/moore-2004-gd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Power of Basis Selection in Fourier Sampling: Hidden Subgroup Problems in Affine Groups</title>
+      <link>https://russell-academic.github.io/publication/moore-2004-gy/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/moore-2004-gy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Note on the Set Systems Used for Broadcast Encryption</title>
+      <link>https://russell-academic.github.io/publication/kumar-2003-nh/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/kumar-2003-nh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Cooperation and Adversity: Complexity Trade-offs</title>
+      <link>https://russell-academic.github.io/publication/georgiou-2003-pf/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/georgiou-2003-pf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work-Competitive Scheduling for Cooperative Computing with Dynamic Groups</title>
+      <link>https://russell-academic.github.io/publication/georgiou-2003-cv/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/georgiou-2003-cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Failure sensitive analysis for parallel algorithm with controlled memory access concurrency</title>
+      <link>https://russell-academic.github.io/publication/georgiou-2002-qf/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/georgiou-2002-qf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Fool an Unbounded Adversary with a Short Key</title>
+      <link>https://russell-academic.github.io/publication/russell-2002-lk/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/russell-2002-lk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inapproximability Results for Equations over Finite Groups</title>
+      <link>https://russell-academic.github.io/publication/engebretsen-2002-vs/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/engebretsen-2002-vs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimally Work-Competitive Scheduling for Cooperative Computing with Merging Groups</title>
+      <link>https://russell-academic.github.io/publication/georgiou-2002-br/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/georgiou-2002-br/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Walks on the Hypercube</title>
+      <link>https://russell-academic.github.io/publication/moore-2002-pz/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/moore-2002-pz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Scheduling for Distributed Cooperation</title>
+      <link>https://russell-academic.github.io/publication/malewicz-2001-td/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/malewicz-2001-td/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Scheduling for Disconnected Cooperation</title>
+      <link>https://russell-academic.github.io/publication/malewicz-2001-sh/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/malewicz-2001-sh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Complexity of Synchronous Iterative Do-All with Crashes</title>
+      <link>https://russell-academic.github.io/publication/georgiou-2001-gm/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/georgiou-2001-gm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Cooperation During the Absence of Communication</title>
+      <link>https://russell-academic.github.io/publication/malewicz-2000-wv/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/malewicz-2000-wv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Cooperation in the Absence of Communication</title>
+      <link>https://russell-academic.github.io/publication/malewicz-2000-nm/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/malewicz-2000-nm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hard-core functions: Survey and new results</title>
+      <link>https://russell-academic.github.io/publication/naslund-2000-qd/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/naslund-2000-qd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Normal Subgroup Reconstruction and Quantum Computation Using Group Representations</title>
+      <link>https://russell-academic.github.io/publication/hallgren-2000-mo/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/hallgren-2000-mo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral Bounds on General Hard Core Predicates</title>
+      <link>https://russell-academic.github.io/publication/goldmann-2000-gu/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/goldmann-2000-gu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Complexity of Distributed Cooperation in the Presence of Failures</title>
+      <link>https://russell-academic.github.io/publication/georgiou-2000-kl/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/georgiou-2000-kl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lower Bounds for Leader Election and Collective Coin-Flipping in the Perfect Information Model</title>
+      <link>https://russell-academic.github.io/publication/russell-1999-by/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/russell-1999-by/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Complexity of Solving Equations Over Finite Groups</title>
+      <link>https://russell-academic.github.io/publication/goldmann-1999-tn/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/goldmann-1999-tn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extraction of optimally unbiased bits from a biased source</title>
+      <link>https://russell-academic.github.io/publication/naslund-1998-hw/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/naslund-1998-hw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perfect Information Leader Election in $łog^* n &#43; O(1)$ Rounds</title>
+      <link>https://russell-academic.github.io/publication/russell-1998-aq/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/russell-1998-aq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster Algorithms for Optical Switch Configuration</title>
+      <link>https://russell-academic.github.io/publication/kumar-1997-oa/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/kumar-1997-oa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximating Latin Square Extensions</title>
+      <link>https://russell-academic.github.io/publication/kumar-1996-ng/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/kumar-1996-ng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alternation in interaction</title>
+      <link>https://russell-academic.github.io/publication/kiwi-1994-fu/</link>
+      <pubDate>Wed, 01 Jun 1994 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/kiwi-1994-fu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Probabilistic Checkable Proofs and Applications to Approximation</title>
+      <link>https://russell-academic.github.io/publication/bellare-1994-zy/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/bellare-1994-zy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Probabilistically Checkable Proofs and Applications to Approximations</title>
+      <link>https://russell-academic.github.io/publication/bellare-1993-am/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/bellare-1993-am/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Necessary and Sufficient Conditions For Collision-Free Hashing</title>
+      <link>https://russell-academic.github.io/publication/russell-1993-ne/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>https://russell-academic.github.io/publication/russell-1993-ne/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
